@@ -104,5 +104,16 @@
     "Simulation",
     "org.o3de.gem.tickbusorderviewer",
     "Utility"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-tickbusorderviewer.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
